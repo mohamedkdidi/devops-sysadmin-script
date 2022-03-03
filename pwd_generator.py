@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Author: mohamedkdidi@gmail.com 
 # Python 2.x
 # Simple random password generator.
 
