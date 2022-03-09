@@ -1,1 +1,1 @@
-# devops-python-script
+# DevOps& SysAdmin tasks with Python, Bash, PowerShell and Go
